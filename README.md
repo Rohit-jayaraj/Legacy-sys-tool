@@ -31,5 +31,11 @@ A minimalist Windows-native GUI built with Python and Tkinter to launch `.bat` s
 python main.py
 ```
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/478f3329-208a-49dc-b745-1e2e1e4a428a)
+
+
+
 ## 🤘 Author
 Made by Rohit Jayaraj - fueled by code and heavy metal.
